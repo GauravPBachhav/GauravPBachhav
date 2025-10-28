@@ -69,17 +69,15 @@ Data Structures and Algorithms (DSA) | Database Management System (DBMS) | Objec
 ---
 ### 📫 Let's Connect
 
--   **Email:** gauravbachhav.work@gmail.com
--   **Phone:** +91-7875506750
-<div>
+**Email:** [gauravbachhav.work@gmail.com](mailto:gauravbachhav.work@gmail.com)  
+**Phone:** +91-7875506750
+
+<p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <br>
   <a href="https://github.com/GauravPBachhav" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-</div>
-
-<br>
+</p>
 ⭐ Thank you for visiting my GitHub! Let's build something amazing together.
