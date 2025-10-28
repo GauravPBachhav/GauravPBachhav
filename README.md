@@ -67,12 +67,16 @@ Data Structures and Algorithms (DSA) | Database Management System (DBMS) | Objec
 -   **Concepts:** Data Structures & Algorithms, Database Management, OOP, SDLC
 
 ---
-
 ### 📫 Let's Connect
 
--   **Email:** [gauravbachhav.work@gmail.com](mailto:gauravbachhav.work@gmail.com)
+-   **Email:** gauravbachhav.work@gmail.com
 -   **Phone:** +91-7875506750
--   **LinkedIn:** [[Gaurav Bachhav](http://www.linkedin.com/in/gaurav-bachhav)]
--   **GitHub:** [[Gaurav Bachhav](https://github.com/gauravpbachhav)]
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://github.com/GauravPBachhav" target="_blank">
+  <img src="https://img.shields.io/github/followers/GauravPBachhav?label=Follow&style=social" alt="GitHub Badge"/>
+</a>
 
 ⭐ Thank you for visiting my GitHub! Let's build something amazing together.
