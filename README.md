@@ -77,7 +77,7 @@ Data Structures and Algorithms (DSA) | Database Management System (DBMS) | Objec
   </a>
   <br>
   <a href="https://github.com/GauravPBachhav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    
   </a>
 </div>
 
