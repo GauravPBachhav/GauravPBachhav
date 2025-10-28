@@ -74,10 +74,9 @@ Data Structures and Algorithms (DSA) | Database Management System (DBMS) | Objec
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://camo.githubusercontent.com/84707cd23f1398cdd2317cc3b45b16e380d3d6c7cdcb791cb82795982b8d01a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d466f6c6c6f772d626c61636b3f6c6f676f3d676974687562"/>
+    <img src="https://camo.githubusercontent.com/5a0698ff3517fccea7ca01018ac3225813799e093bfa6254d4c08c74f57ed9e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f6c6f676f3d6c696e6b6564696e"/>
   </a>
   <a href="https://github.com/GauravPBachhav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
+      <img src="https://camo.githubusercontent.com/84707cd23f1398cdd2317cc3b45b16e380d3d6c7cdcb791cb82795982b8d01a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d466f6c6c6f772d626c61636b3f6c6f676f3d676974687562"/>
 </p>
 ⭐ Thank you for visiting my GitHub! Let's build something amazing together.
