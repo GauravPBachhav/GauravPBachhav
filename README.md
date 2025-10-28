@@ -73,6 +73,6 @@ Data Structures and Algorithms (DSA) | Database Management System (DBMS) | Objec
 -   **Email:** [gauravbachhav.work@gmail.com](mailto:gauravbachhav.work@gmail.com)
 -   **Phone:** +91-7875506750
 -   **LinkedIn:** [[Gaurav Bachhav](http://www.linkedin.com/in/gaurav-bachhav)]
--   **GitHub:** [[Your GitHub Profile URL](https://github.com/gauravpbachhav)]
+-   **GitHub:** [[Gaurav Bachhav](https://github.com/gauravpbachhav)]
 
 ⭐ Thank you for visiting my GitHub! Let's build something amazing together.
